@@ -1,0 +1,12 @@
+﻿  mathlib.cpp
+C:\Users\Hans\Desktop\CVED\development\c++\projects\dll-libraries\dll-libraries\mathlib.cpp(7,23): warning C4273: 'add': inconsistent dll linkage
+C:\Users\Hans\Desktop\CVED\development\c++\projects\dll-libraries\dll-libraries\mathlib.h(15,28): message : see previous definition of 'add'
+C:\Users\Hans\Desktop\CVED\development\c++\projects\dll-libraries\dll-libraries\mathlib.cpp(11,16): warning C4273: 'printId': inconsistent dll linkage
+C:\Users\Hans\Desktop\CVED\development\c++\projects\dll-libraries\dll-libraries\mathlib.h(16,29): message : see previous definition of 'printId'
+C:\Users\Hans\Desktop\CVED\development\c++\projects\dll-libraries\dll-libraries\mathlib.cpp(16,22): warning C4273: 'Function::Function': inconsistent dll linkage
+C:\Users\Hans\Desktop\CVED\development\c++\projects\dll-libraries\dll-libraries\mathlib.h(20,2): message : see previous definition of '{ctor}'
+C:\Users\Hans\Desktop\CVED\development\c++\projects\dll-libraries\dll-libraries\mathlib.cpp(20,24): warning C4273: 'Function::print': inconsistent dll linkage
+C:\Users\Hans\Desktop\CVED\development\c++\projects\dll-libraries\dll-libraries\mathlib.h(23,7): message : see previous definition of 'print'
+C:\Users\Hans\Desktop\CVED\development\c++\projects\dll-libraries\dll-libraries\mathlib.cpp(24,31): warning C4273: 'Function::generate': inconsistent dll linkage
+C:\Users\Hans\Desktop\CVED\development\c++\projects\dll-libraries\dll-libraries\mathlib.h(24,18): message : see previous definition of 'generate'
+  dll-libraries.vcxproj -> C:\Users\Hans\Desktop\CVED\development\c++\projects\dll-libraries\Debug\dll-libraries.dll
